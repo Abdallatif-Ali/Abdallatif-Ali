@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🧑‍💻 About Me
-Hi, I'm Abdallatif Ali, A pesce-bilding consultant and cultural actor, and participant in the MIT Emerging Talent Program. I’m passionate about leveraging technology to drive social impact and lead initiatives like the Sudan Resilience Expressions (SRE) project, which focuses on fostering peace and cultural unity through innovation.
+Hi, I'm Abdallatif Ali, A pesce-building consultant and cultural actor,  participant in the MIT Emerging Talent Program. I’m passionate about leveraging technology to drive social impact. leading the Sudan Resilience Expressions (SRE) project, which focuses on using innovation through digital platform to foster peace and cultural unity, and documenting the collective memory shifts of Sudanese people during war times.
 
 ## 🔍 What I’m Working On
 - Strengthening my technical skills in Python, Git, and data science.
@@ -19,5 +19,5 @@ Hi, I'm Abdallatif Ali, A pesce-bilding consultant and cultural actor, and parti
 - Social Impact: Using technology to empower underserved communities
 
 ## 🌐 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/abdallatif-ali)
+- [LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/abdallatif-ali))
 - Email: Abdallatifaltayeb@gmail.com
