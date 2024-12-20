@@ -19,5 +19,5 @@ Hi, I'm Abdallatif Ali, A pesce-building consultant and cultural actor,  partici
 - Social Impact: Using technology to empower underserved communities
 
 ## 🌐 Let’s Connect!
-- [LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/abdallatif-ali)
+- [LinkedIn](https://www.linkedin.com/in/abdallatif-ali)
 - Email: Abdallatifaltayeb@gmail.com
